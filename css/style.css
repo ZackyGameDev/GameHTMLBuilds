@@ -94,3 +94,8 @@ body{
     position: relative;
     top: -2em;
 }
+
+.dummy-text {
+    font-size: 1.25em;
+    color: #007206
+}
