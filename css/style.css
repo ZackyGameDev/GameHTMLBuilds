@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,500;1,500&display=swap');
 
 body{
-    background-color: rgb(6, 4, 15);
+    background-color: rgb(240, 251, 250);
     font-family: "Alegreya Sans SC", sans-serif;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .corner-cover {
@@ -97,5 +97,5 @@ body{
 
 .dummy-text {
     font-size: 1.25em;
-    color: #007206
+    color: #000300
 }
