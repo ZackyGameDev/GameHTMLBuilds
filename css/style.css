@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,500;1,500&display=swap');
 
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(6, 4, 15);
     font-family: "Alegreya Sans SC", sans-serif;
     color: white;
 }
@@ -9,7 +9,7 @@ body{
 .corner-cover {
     z-index: 1;
     content: "";
-    background-color: #011f0d;
+    background-color: #042333;
     position: fixed;
     top: 0;
     left: -6em;
@@ -51,7 +51,7 @@ body{
 .mobile-title {
     content:    none;
     position:   absolute;
-    background: #054108;
+    background: #054121;
     top:        0;
     left:       3em;
     height:     8em;
@@ -62,7 +62,7 @@ body{
 .mobile-title-outline {
     content:    none;
     position:   fixed;
-    background: #00a008;
+    background: #00a055;
     top:        0;
     left:       5em;
     height:     8.1em;
@@ -80,19 +80,19 @@ body{
     width: 70%;
     z-index: 11;
     letter-spacing: 0.01em;
-    color: #00ff00;
+    color: #00ff9d;
     font-style: italic;
 }
 
 .mobile-text .title-text {
     position: relative;
-    top: -0.5em;
+    top: -0.4em;
     font-size: 2.5em;
 }
 
 .mobile-text .subtitle-text {
     position: relative;
-    top: -2em;
+    top: -2.5em;
 }
 
 .dummy-text {
