@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.links-container {
+   max-width: 300px;
+   margin: auto;
+   border: solid white;
+   padding: 20px;
+   color: white;
+   background-color: black; 
+}
+
+.link {
+   display:block; 
+   padding:10px; 
+   border:solid white; 
+}
